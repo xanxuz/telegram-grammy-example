@@ -2,7 +2,9 @@
   "name": "telegram-grammy-example",
   "version": "1.0.0",
   "description": "Example of grammy to be deployed in vercel",
-  "scripts": {},
+  "scripts": {
+    "build": "tsc"
+  },
   "author": "xanxuz",
   "license": "MIT",
   "dependencies": {
